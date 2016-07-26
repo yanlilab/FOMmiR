@@ -28,8 +28,8 @@ FOMmiR, which might be closely associated with the enzyme cleavage mechanism dur
 
 # Availability
 
-Online serivce: http://bioinf.shenwei.me/cgi-bin/FOMmiR.cgi
+Online serivce: http://bioinf.shenwei.me/fommir
 
-# Citing FOMmiR
+# Citation
 
 - Shen W, Chen M, Wei G, Li Y* (2012) MicroRNA Prediction Using a Fixed-Order Markov Model Based on the Secondary Structure Pattern. PLoS ONE 7(10): e48236. doi:[10.1371/journal.pone.0048236](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0048236)
